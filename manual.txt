@@ -1,0 +1,26 @@
+--Exercise--
+1.(19812 string) Longest palindrome subsequence with O(n) space -- https://www.geeksforgeeks.org/longest-palindrome-subsequence-space/
+2. The painter’s partition problem -- https://www.geeksforgeeks.org/painters-partition-problem/ 
+3. Count ways to distribute m items among n people -- https://www.geeksforgeeks.org/count-ways-to-distribute-m-items-among-n-people/
+4. Maximum profit by buying and selling a share at most k times -- https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/
+
+==-- Programming Languages By IEEE Spectrum --==
+--Python--
+python pythonFile.py
+
+--C/C++-- 
+g++ -o cppBuild cppFile.cpp
+./cppBuild
+
+--Java--
+javac javaFile.java
+java javaFile
+
+--C#--
+dotnet publish
+dotnet csharpFile.dll
+
+--php--
+php phpFile.php
+
+// revisar Exercise1 cpp y compilar

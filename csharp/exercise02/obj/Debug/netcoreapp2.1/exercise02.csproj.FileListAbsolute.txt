@@ -1,0 +1,11 @@
+/home/kazeia/Documents/benchs/csharp/exercise02/bin/Debug/netcoreapp2.1/exercise02.deps.json
+/home/kazeia/Documents/benchs/csharp/exercise02/bin/Debug/netcoreapp2.1/exercise02.runtimeconfig.json
+/home/kazeia/Documents/benchs/csharp/exercise02/bin/Debug/netcoreapp2.1/exercise02.runtimeconfig.dev.json
+/home/kazeia/Documents/benchs/csharp/exercise02/bin/Debug/netcoreapp2.1/exercise02.dll
+/home/kazeia/Documents/benchs/csharp/exercise02/bin/Debug/netcoreapp2.1/exercise02.pdb
+/home/kazeia/Documents/benchs/csharp/exercise02/obj/Debug/netcoreapp2.1/exercise02.csprojAssemblyReference.cache
+/home/kazeia/Documents/benchs/csharp/exercise02/obj/Debug/netcoreapp2.1/exercise02.csproj.CoreCompileInputs.cache
+/home/kazeia/Documents/benchs/csharp/exercise02/obj/Debug/netcoreapp2.1/exercise02.AssemblyInfoInputs.cache
+/home/kazeia/Documents/benchs/csharp/exercise02/obj/Debug/netcoreapp2.1/exercise02.AssemblyInfo.cs
+/home/kazeia/Documents/benchs/csharp/exercise02/obj/Debug/netcoreapp2.1/exercise02.dll
+/home/kazeia/Documents/benchs/csharp/exercise02/obj/Debug/netcoreapp2.1/exercise02.pdb
