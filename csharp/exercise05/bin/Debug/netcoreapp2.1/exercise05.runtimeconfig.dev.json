@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kazeia/.dotnet/store/|arch|/|tfm|",
+      "/home/kazeia/.nuget/packages"
+    ]
+  }
+}

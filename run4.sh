@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-max=5
+max=1
 bold=$(tput bold)
 normal=$(tput sgr0)
 

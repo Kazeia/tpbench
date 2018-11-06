@@ -3,7 +3,8 @@
 2. The painter’s partition problem -- https://www.geeksforgeeks.org/painters-partition-problem/ 
 3. Count ways to distribute m items among n people -- https://www.geeksforgeeks.org/count-ways-to-distribute-m-items-among-n-people/
 4. Maximum profit by buying and selling a share at most k times -- https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-k-times/
-
+5. Factorial Big integer with n = 3206306 digits
+6. Matrix Chain Multiplication | DP-8 -- https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
 ==-- Programming Languages By IEEE Spectrum --==
 --Python--
 python pythonFile.py
@@ -22,5 +23,3 @@ dotnet csharpFile.dll
 
 --php--
 php phpFile.php
-
-// revisar Exercise1 cpp y compilar

@@ -1,18 +1,26 @@
 #!/usr/bin/env ruby
-def mem(pid); `ps p #{pid} -o rss`.split.last.to_i; end
-def cpu(pid); `ps p #{pid} -o %cpu`.split.last.to_i; end
+def mem(process); `ps p #{process} -o rss` end
+def cpu(process); `ps p #{process} -o %cpu` end
+
+# Initial Time
 t = Time.now
-pid = Process.spawn(*ARGV.to_a)
+
+# Process to Test
+currentProcess = Process.spawn(*ARGV.to_a)
+
+# Declare Initial Memory Variable
 mm = 0
 
+# Run process
 Thread.new do
-  mm = mem(pid)
+  mm = mem(currentProcess)
   while true
     sleep 0.1
-    m = mem(pid)
+    m = mem(currentProcess)
     mm = m if m > mm
   end
 end
 
+# Wait and print results
 Process.waitall
-STDERR.puts "%.3fs, %.3fMb, %.3f" % [Time.now - t, mm / 1024.0, cpu(pid)]
+STDERR.puts "%.3fs, %.3fMb, %.3f" % [Time.now - t, mm / 1024.0, cpu(currentProcess)]
