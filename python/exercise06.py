@@ -32,7 +32,7 @@ def MatrixChainOrder(p, i, j):
 
 
 # Driver program to test above function 
-arr = [54,66,39,46,12,87,61,24,36,28,13,4,73,84,25,62,67,93,22,86,37,3,58,34,26]; 
+arr = [54,66,39,46,12,87,61,24,36,28,13,4,73,84,25,62,67]; 
 n = len(arr); 
 
 print("Minimum number of multiplications is ", 

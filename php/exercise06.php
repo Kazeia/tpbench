@@ -22,7 +22,7 @@ function matrixChainOrder($p, $n) {
     return $m[1][$n-1];
 }
 
-$arr = array(54,66,39,46,12,87,61,24,36,28,13,4,73,84,25,62,67,93,22,86,37,3,58,34,26);
+$arr = array(54,66,39,46,12,87,61,24,36,28,13,4,73,84,25,62,67);
 $size = sizeof($arr);
 
 echo "Minimum number of multiplications is ".matrixChainOrder($arr, $size);
